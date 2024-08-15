@@ -1,1 +1,4 @@
-# digital-doctor
+# HackMerced
+
+HackMerced IX website files
+
